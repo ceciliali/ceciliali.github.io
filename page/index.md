@@ -5,8 +5,4 @@ title: Page
 ---
 ## This is a static page
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit voluptatibus, assumenda perspiciatis vel eos, molestias nisi cum accusantium commodi amet modi repellendus. Nostrum iure fugiat ducimus quae nesciunt distinctio ullam.
-
-Modi consequuntur, ex, quod optio perferendis delectus libero excepturi recusandae, odio earum consectetur obcaecati repellat atque natus dignissimos quidem laboriosam nisi est? Hic ex ullam aspernatur perferendis doloremque odit eius nostrum cumque repudiandae sapiente culpa voluptate qui quasi, nulla dolorum facilis ab.
-
-Excepturi atque fuga illum fugiat consequatur, obcaecati, quaerat voluptatibus! Consequuntur ut dolore impedit magni officiis a voluptatibus odio, assumenda obcaecati illo reprehenderit veniam totam dolorem optio iure eius corporis aspernatur inventore quia perspiciatis placeat ratione repellat! Voluptatem.
+“我的作品总是非常简洁质朴，但我不希望它们看上去都是冷冰冰的。”佐藤大希望赋予作品“友好而风趣”的特质，以及某种“幽默感”。“无论何时，我创作的出发点都是对象背后的故事。”佐藤大说，他创作的诀窍是“永远保持对世界上一切事物的好奇心”，因此，也永远有想要表达的欲望。 
